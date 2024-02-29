@@ -1,31 +1,31 @@
 {
     "data": [
         {
-            "Project Code": "73XX",
+            "Project Code": "R1234",
             "Project Name": "Human Microbiome",
             "Dx Title": "Study of microbial communities that life in and on our bodies and the role they play in disease",
-            "Dx Name": "Ella King",
-            "Project Status": "no",
-            "Programme Category": "ONGOING",
-            "Project Phase": "ONGOING"
+            "Dx Name": "R1234",
+            "Project Status": "ACTIVE",
+            "Programme Category": "DRUG",
+            "Project Phase": "PRe-ss"
         },
                 {
-            "Project Code": "73XX",
-            "Project Name": "Human Microbiome",
-            "Dx Title": "Study of microbial communities that life in and on our bodies and the role they play in disease",
-            "Dx Name": "Ella King",
-            "Project Status": "ONGOING",
-            "Programme Category": "ONGOING",
-             "Project Phase": "ONGOING"
+            "Project Code": "R5678",
+            "Project Name": "Funclor",
+            "Dx Title": "Assay/method development general",
+            "Dx Name": "DICR5678",
+            "Project Status": "ACTIVE",
+            "Programme Category": "DRUG",
+             "Project Phase": "PRe-ss"
         },
               {
-            "Project Code": "73XX",
-            "Project Name": "Human Microbiome",
+            "Project Code": "R9012",
+            "Project Name": "E3 ubiquitin ligase",
             "Dx Title": "Study of microbial communities that life in and on our bodies and the role they play in disease",
-            "Dx Name": "Ella King",
-            "Project Status": "ONGOING",
-            "Programme Category": "ONGOING",
-             "Project Phase": "ONGOING"
+            "Dx Name": "DICR9012",
+            "Project Status": "ACTIVE",
+            "Programme Category": "DRUG",
+             "Project Phase": "Early-CC"
         }
     ],
     "paging": {
